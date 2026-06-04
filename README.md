@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to my GitHub Profile!
 
-<!--
-**rahultuladhar11/rahultuladhar11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an applicant for the MSc Data Science programme, currently utilizing this space to build my foundational programming and data tracking skills. 
 
-Here are some ideas to get you started:
+## 📌 Technical Directory
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🐍 [Click Here to View My Python Code](https://github.com/YOUR_USERNAME/code50)
+* **Repository Name:** `code50`
+* **Context:** This is my primary programming sandbox, connected to **Harvard University's CS50P (Introduction to Programming with Python)** course. Because this repository handles automated submissions directly to Harvard's grading infrastructure, the default structure and naming conventions are preserved.
+* **What's Inside:** 
+  * Complete source code for all weekly problem sets covering core Python syntax, Object-Oriented Programming (OOP), and testing with `pytest`.
+  * **Final Capstone Project:** Located within this repository, demonstrating a complete, independent Python application.
+
+### 📊 Ongoing Studies
+* **IBM Data Science Certificate:** Currently practicing version control, data visualization, and environment setups. 
+* **Mathematics:** Actively reinforcing my analytical foundations with advanced coursework in Statistics and Probability via Khan Academy.
