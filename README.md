@@ -4,7 +4,7 @@ I am an applicant for the MSc Data Science programme, currently utilizing this s
 
 ## 📌 Technical Directory
 
-### 🐍 [Click Here to View My Python Code](https://github.com/rahultuladhar11/code50/148341471
+### 🐍 [Click Here to View My Python Code](https://github.com/code50/148341471)
 * **Repository Name:** `code50`
 * **Context:** This is my primary programming sandbox, connected to **Harvard University's CS50P (Introduction to Programming with Python)** course. Because this repository handles automated submissions directly to Harvard's grading infrastructure, the default structure and naming conventions are preserved.
 * **What's Inside:** 
