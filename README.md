@@ -13,7 +13,7 @@ I am an applicant for the MSc Data Science programme, currently utilizing this s
   * **`04_Application_Architecture_and_Integration`**: Object-Oriented Programming (Classes) and third-party Web APIs.
   * **`05_FINAL_CAPSTONE_PROJECT`**: Independent software application utilizing the IUCN Red List API.
 
-### 📜 [Click Here to View My Python Foundations Archive](https://github.com/rahultuladhar11/Great-Courses-Plus-Python)
+### 📜 [Click Here to View My Python Foundations Archive](https://github.com/rahultuladhar11/Python-Foundations-Archive)
 * **Context:** A historical archive tracking my complete programming progress and technical evolution through the Great Courses Plus curriculum.
 * **Core Architecture:** Organized across 24 lectures into 4 structured directories:
   * **`01_Syntax_and_Control`**: Initial foundational mechanics, native data inputs, and conditional control flow.
